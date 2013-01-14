@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1487" systemVersion="12A269" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Phone" representedClassName="Phone" syncable="YES">
+        <attribute name="eight" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eleven" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="five" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="four" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nine" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="photoData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="seven" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="six" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ten" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="three" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titleForSort" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="twelve" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="two" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weekDay" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Phone" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
